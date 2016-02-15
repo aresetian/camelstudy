@@ -25,5 +25,4 @@ public class MySpringBootRouterWarInitializer extends FatWarInitializer {
     protected Class<? extends FatJarRouter> routerClass() {
         return MySpringBootRouter.class;
     }
-
 }
